@@ -10,14 +10,12 @@ about_title: About
 projects_title: Home
 
 # User settings
-
 user_description_short: |
 
   I'm a NYC-based data scientist. I recently graduated from Metis, a 12-week ACCET accredited data science bootcamp.
 
 user_description_appendix: |
   
-
   I built this site in [Jekyll][jekyll], and it's hosted for free on [GitHub Pages][gh-pages]. It's open source, so if
   you like it, feel free to fork it on [GitHub][github] and make your own version.
 
