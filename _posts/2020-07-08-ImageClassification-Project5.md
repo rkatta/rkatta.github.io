@@ -3,7 +3,7 @@ layout: post
 title: Garbage Classification - Project 5
 date: 2020-07-08 00:00:00 -0000
 image: Garbage.jpeg
-tags: [music, machine learning, NLP]
+tags: [projects, machine learning, NLP]
 excerpt_separator: <!--more-->
 ---
 
