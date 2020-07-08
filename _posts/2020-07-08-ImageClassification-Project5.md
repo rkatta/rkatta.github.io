@@ -2,7 +2,7 @@
 layout: post
 title: Garbage Classification - Project 5
 date: 2020-07-08 00:00:00 -0000
-image: computer-monitor.jpg
+image: Garbage.jpeg
 tags: [Music, Machine Learning, NLP]
 excerpt_separator: <!--more-->
 ---
