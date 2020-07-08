@@ -52,7 +52,7 @@ user_description_short: |
 ## URLs
 permalink: ':title/'
 
-baseurl: ''
+baseurl: 'rkatta.github.io'
 projects_url: '/'
 about_url: '/about'
 
