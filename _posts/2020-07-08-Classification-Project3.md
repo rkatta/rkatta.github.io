@@ -3,7 +3,7 @@ layout: post
 title: Classification - Project 3
 date: 2020-07-08 00:00:00 -0000
 image: car-accident.jpg
-tags: [Projects, Machine Learning, Classification]
+tags: [projects, machine Learning, classification]
 excerpt_separator: <!--more-->
 ---
 

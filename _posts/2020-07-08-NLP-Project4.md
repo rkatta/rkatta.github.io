@@ -3,7 +3,7 @@ layout: post
 title: Natural Language Processing - Project 4
 date: 2020-07-08 00:00:00 -0000
 image: Poetry.jpeg
-tags: [Tech Blog, Machine Learning, NLP]
+tags: [tech-blog, Machine Learning, NLP]
 excerpt_separator: <!--more-->
 ---
  

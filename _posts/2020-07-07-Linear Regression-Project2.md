@@ -3,7 +3,7 @@ layout: post
 title: Linear Regression - Project 2
 date: 2020-07-08 00:00:00 -0000
 image: computer-monitor.png
-tags: [Projects, Machine Learning, Linear Regression]
+tags: [projects, machine Learning, linear regression]
 excerpt_separator: <!--more-->
 ---
 
