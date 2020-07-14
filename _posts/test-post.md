@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Spherical CNN
+title: Test Post
 date: 2020-07-14 00:00:00 -0000
 image: sphere.jpg
-tags: [articles]
+tags: [projects, Machine Learning]
 excerpt_separator: <!--more-->
 ---
 
-CNN are greats and spherical CNNs are even better.
+This is a test post
