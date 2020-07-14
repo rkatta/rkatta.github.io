@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Exploratory Data Analysis - MTA Turnstile
+title: Exploratory Data Analysis
 date: 2020-07-08 00:00:00 -0000
 image: mta-turnstile.jpg
 tags: [projects, machine Learning, exploratory data analysis]

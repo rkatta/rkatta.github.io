@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Natural Language Processing - Project 4
+title: Natural Language Processing
 date: 2020-07-08 00:00:00 -0000
 image: poetry.png
 tags: [projects, Machine Learning, NLP]

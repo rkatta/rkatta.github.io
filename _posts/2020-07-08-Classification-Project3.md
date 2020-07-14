@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Classification - Project 3
+title: Classification
 date: 2020-07-08 00:00:00 -0000
 image: car-accident.jpg
 tags: [projects, machine Learning, classification]

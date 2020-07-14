@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Garbage Classification - Project 5
+title: Garbage Classification
 date: 2020-07-08 00:00:00 -0000
 image: trash.jpg
 tags: [projects, machine learning, NLP]
